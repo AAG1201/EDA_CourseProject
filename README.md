@@ -17,16 +17,16 @@ Dataset Link : https://drive.google.com/drive/folders/1SslN-ujkFrNzi0DLKHrvBVTIc
 
 ### Full data
 <div align="center">
-    <img src="images/Picture5.png" alt="Full Data" width="600">
+    <img src="images/Picture5.png" alt="Full Data">
 </div>
 
 ### Predictions
 <div align="center">
-    <img src="images/Picture3.png" alt="Full Data" width="600">
+    <img src="images/Picture3.png" alt="Full Data">
 </div>
 
 <div align="center">
-    <img src="images/Picture4.png" alt="Full Data" width="600">
+    <img src="images/Picture4.png" alt="Full Data">
 </div>
 
 
