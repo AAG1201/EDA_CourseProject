@@ -2,22 +2,35 @@
 
 Dataset Link : https://drive.google.com/drive/folders/1SslN-ujkFrNzi0DLKHrvBVTIcRDKyGt2?usp=sharing
 
-# Overview
 
-Here are key slides from the presentation:
+# Here are key slides from the presentation:
 
-## Feature Combination
+### Feature Combination
 <div align="center">
     <img src="images/Picture1.png" alt="Features" width="600">
 </div>
 
-## Slide 2: Details
+### Training-testing setup
 <div align="center">
     <img src="images/Picture2.png" alt="Full Data" width="600">
 </div>
 
+### Full data
+<div align="center">
+    <img src="images/Picture5.png" alt="Full Data" width="600">
+</div>
 
-## Project Documentation
+### Predictions
+<div align="center">
+    <img src="images/Picture3.png" alt="Full Data" width="600">
+</div>
+
+<div align="center">
+    <img src="images/Picture4.png" alt="Full Data" width="600">
+</div>
+
+
+# Project Documentation
 
 For more details, check out the presentation:
 
