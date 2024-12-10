@@ -46,6 +46,4 @@ For more details, check out the presentation:
 
 [Download the PowerPoint Presentation](final_project_Aditya_Yuvraj.pptx)
 
----
 
-- For additional instructions or details, refer to the project documentation.
