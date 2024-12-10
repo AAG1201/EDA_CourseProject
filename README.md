@@ -48,7 +48,4 @@ For more details, check out the presentation:
 
 ---
 
-### Notes
-- Ensure all images are correctly placed in the `images` folder relative to the `README.md` file.
-- Adjust image dimensions (`width="600"`) as needed for readability.
 - For additional instructions or details, refer to the project documentation.
