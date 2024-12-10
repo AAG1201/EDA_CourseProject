@@ -40,6 +40,14 @@ To set up the dataset:
 
 ---
 
+# Project Documentation
+
+For more details, check out the presentation:
+
+[Download the PowerPoint Presentation](final_project_Aditya_Yuvraj.pptx)
+
+---
+
 ### Notes
 - Ensure all images are correctly placed in the `images` folder relative to the `README.md` file.
 - Adjust image dimensions (`width="600"`) as needed for readability.
