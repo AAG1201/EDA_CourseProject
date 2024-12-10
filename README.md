@@ -7,10 +7,10 @@ Dataset Link : https://drive.google.com/drive/folders/1SslN-ujkFrNzi0DLKHrvBVTIc
 Here are key slides from the presentation:
 
 ## Slide 1: Overview
-![Features](images/Picture1.png)
+<img src="images/Picture1.png" alt="Features" width="600">
 
 ## Slide 2: Details
-![Full Data](images/Picture2.png)
+<img src="images/Picture2.png" alt="Full Data" width="600">
 
 
 ## Project Documentation
