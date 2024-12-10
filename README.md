@@ -24,18 +24,18 @@ To set up the dataset:
 
 ### Full Dataset Overview
 <div align="center">
-    <img src="images/Picture5.png" alt="Full Dataset Overview" width="600">
+    <img src="images/Picture5.png" alt="Full Dataset Overview">
 </div>
 
 ### Predictions
 #### Prediction Visualization 1
 <div align="center">
-    <img src="images/Picture3.png" alt="Prediction Visualization 1" width="600">
+    <img src="images/Picture3.png" alt="Prediction Visualization 1">
 </div>
 
 #### Prediction Visualization 2
 <div align="center">
-    <img src="images/Picture4.png" alt="Prediction Visualization 2" width="600">
+    <img src="images/Picture4.png" alt="Prediction Visualization 2">
 </div>
 
 ---
